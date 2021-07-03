@@ -59,3 +59,5 @@
 58001000 00000020
 78000000 00000348
 640A0000 00000000 00000000
+
+[Credits To TomSwitch | Patjenova | xTatu | Jericoss]
