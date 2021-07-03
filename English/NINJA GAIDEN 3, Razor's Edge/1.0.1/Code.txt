@@ -14,3 +14,5 @@
 80000102
 04000000 03341CE4 00000000
 20000000
+
+[Credits To Hazerou | DemoN_AleX | TomSwitch | Patjenova | Mathias DS | Jericoss]
