@@ -19,3 +19,5 @@
 [Inf Money]
 04000000 00d22540 0001869F
 04000000 00d23990 0001869F
+
+[Credits To Hazerou | DemoN_AleX | TomSwitch | Patjenova | Mathias DS | Jericoss]
