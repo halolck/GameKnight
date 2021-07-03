@@ -46,3 +46,5 @@
 [Scrolls without ninjutsu OFF]
 04000000 006FB998 79400D20
 04000000 006FB9B8 79400D00
+
+[Credits To Hazerou | DemoN_AleX | TomSwitch | Patjenova | Mathias DS | Jericoss]
