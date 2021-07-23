@@ -579,3 +579,6 @@
 
 [Unlock 150 levels after passing the Grand Mystery once]
 04000000 00477704 2A0003F5
+
+[Gem Puncher and other materials locked 99]
+04000000 00476134 D2800C73
