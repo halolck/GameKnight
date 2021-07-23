@@ -615,3 +615,21 @@
 
 [Off joystick no delay]
 04000000 0017696C 54000128
+
+[Cross key no delay]
+04000000 001764DC 52800020
+
+[Close cross key without delay]
+04000000 001764DC 1A9F97E0
+
+[Experience value 2x]
+04000000 00782E60 8B0107F4
+
+[Experience value 4 times]
+04000000 00782E60 8B010BF4
+
+[Experience value 8 times]
+04000000 00782E60 8B010FF4
+
+[Experience value 16 times]
+04000000 00782E60 8B0113F4
