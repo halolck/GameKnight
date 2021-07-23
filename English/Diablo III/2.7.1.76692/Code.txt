@@ -548,3 +548,24 @@
 04000000 00C4D5D8 D65F03C0
 04000000 00C4D5DC 17E049EA
 04000000 0045FD80 141FB610
+
+[Close pickup range expansion]
+04000000 0045FD80 F940B400
+
+[Quick identification of items]
+04000000 00200E3C D503201F
+
+[Turn off quick identification of items]
+04000000 00200E3C 1E213800
+
+[Quick Build Item]
+04000000 00404540 11001508
+
+[Close Quick Build Item]
+04000000 00404540 11025908
+
+[Quick enchant item]
+04000000 001D8154 11000508
+
+[Turn off fast enchanting items]
+04000000 001D8154 1101E108
