@@ -670,3 +670,18 @@
 
 [Legendary Gem Upgrade Chance 100%]
 04000000 0067C93C 1E2E1008
+
+[Turn off legendary gem upgrade chance 100%]
+04000000 0067C93C BC685928
+
+[No reduction in the number of Legendary Gem upgrades]
+04000000 0086616C 710002E1
+
+[Turn off Legendary Gem upgrade chance undiminished]
+04000000 0086616C 710006E1
+
+[No delay in Legendary Gem upgrade]
+04000000 00341AB8 1E2E1002
+
+[Turn off Legendary Gem Upgrade without delay]
+04000000 00341AB8 BD406662
