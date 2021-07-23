@@ -591,3 +591,9 @@
 
 [Turn off material lock for gem punch etc.]
 04000000 00476134 cb130113
+
+[Karnai Magic Box does not consume materials]
+04000000 00866330 d65f03c0
+
+[Turn off material locking for Karnai Magic Box]
+04000000 00866330 d101c3ff
