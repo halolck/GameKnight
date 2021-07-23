@@ -582,3 +582,6 @@
 
 [Gem Puncher and other materials locked 99]
 04000000 00476134 D2800C73
+
+[Gem Punch and other materials locked 999]
+04000000 00476134 D2807CF3
