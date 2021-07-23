@@ -572,3 +572,4 @@
 
 [Storage box capacity limit increase (max. 910)]
 04000000 0047BB10 528071C0
+04000000 00C4D5DC 17E049EA
