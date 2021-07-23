@@ -570,5 +570,5 @@
 [Turn off fast enchanting items]
 04000000 001D8154 1101E108
 
-[Storage box capacity limit increase (max. 910)
+[Storage box capacity limit increase (max. 910)]
 04000000 0047BB10 528071C0
