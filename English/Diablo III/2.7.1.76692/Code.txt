@@ -588,3 +588,6 @@
 
 [Gemstone puncher etc. material locked 9999]
 04000000 00476134 d284e1f3
+
+[Turn off material lock for gem punch etc.]
+04000000 00476134 cb130113
