@@ -633,3 +633,21 @@
 
 [Experience value 16 times]
 04000000 00782E60 8B0113F4
+
+[Experience value 32 times]
+04000000 00782E60 8B0117F4
+
+[Experience value 64 times]
+04000000 00782E60 8B011BF4
+
+[Experience value 4096 times]
+04000000 00782E60 8B0133F4
+
+[Experience value 262144 times]
+04000000 00782E60 8B014BF4
+
+[Experience value 16777216 times]
+04000000 00782E60 8B0163F4
+
+[Off experience value multiplier]
+04000000 00782E60 AA0103F4
