@@ -588,18 +588,3 @@
 
 [Gemstone puncher etc. material lock9999]
 04000000 00476134 d284e1f3
-
-[Turn off material lock for gem punch etc.]
-04000000 00476134 cb130113
-
-[Karnai Magic Box does not consume materials]
-04000000 00866330 d65f03c0
-
-[Turn off material locking for Karnai Magic Box]
-04000000 00866330 d101c3ff
-
-[No delay in Kanai Magic Box]
-04000000 00231470 52800008
-04000000 00231474 52800009
-04000000 00231478 5280000A
-04000000 00231480 52800008
