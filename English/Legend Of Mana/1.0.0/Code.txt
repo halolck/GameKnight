@@ -1,0 +1,7 @@
+[1,000,000 Lucre]
+04000000 01CB2A50 000F4240
+
+[Max EXP]
+040B0000 00134794 0B013908
+
+[credits: dragoonmac]
